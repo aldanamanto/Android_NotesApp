@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="activity_create_note_input_note_title_hint">Judul Catatan</string>
+    <string name="activity_create_note_input_note_subtitle_hint">Sub Judul Catatan</string>
+    <string name="activity_create_note_input_note_text_hint">ketik catatan di sini..</string>
+    <string name="activity_main_text_my_note_text">Halo, Selamat Datang</string>
+    <string name="activity_main_input_search_hint">Cari Catatan</string>
+    <string name="layout_add_url_text_add_url_title_text">Masukkan URL</string>
+    <string name="layout_add_url_input_url_hint">ketik URL di sini..</string>
+    <string name="layout_add_url_text_add_text">OK</string>
+    <string name="layout_add_url_text_cancel_text">KEMBALI</string>
+    <string name="layout_delete_note_text_delete_note_title_text">Hapus Catatan</string>
+    <string name="layout_delete_note_text_delete_note_message_text">Apakah anda ingin menghapus catatan ini?</string>
+    <string name="layout_delete_note_text_delete_note_text">HAPUS CATATAN</string>
+    <string name="layout_delete_note_text_cancel_text">KEMBALI</string>
+    <string name="layout_miscellaneous_text_miscellaneous_text">Pengaturan Catatan</string>
+    <string name="layout_miscellaneous_text_pick_color_text">Pilih Warna</string>
+    <string name="layout_miscellaneous_text_add_image_text">Masukkan Gambar</string>
+    <string name="layout_miscellaneous_text_add_url_text">Masukkan URL</string>
+    <string name="layout_miscellaneous_text_delete_note_text">Hapus Catatan</string>
+</resources>
